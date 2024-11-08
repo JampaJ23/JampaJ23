@@ -29,6 +29,7 @@ Atualmente estudando em uma jornada para  <strong>Dev Jr</strong>.<br>
   
 <br/>
 <br/>
+
 ### ~ Estatísticas
 
 <p>
