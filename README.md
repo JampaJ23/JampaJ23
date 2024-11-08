@@ -6,12 +6,6 @@ Atualmente estudando em uma jornada para  <strong>Dev Jr</strong>.<br>
   Sou um apaixonado por tecnologia. Estudante, em uma nova jornada, buscando fazer o mundo um lugar melhor! (mesmo com meus 0,01% de participação)
 </p>
 
-<p align="left">
-  🦄 Linguagens: Python.
-</p>
-
-<p align="left">
-  💼 Ferramentas: Python, VS Code, Git & GitHub.
 
   ---
 </p>
