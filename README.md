@@ -8,7 +8,7 @@ Atualmente estudando em uma jornada para  <strong>Dev Jr</strong>.<br>
 
 
   ---
-
+### Linguagens e Tecnologias
   />
 <img 
     align="left" 
