@@ -1,16 +1,16 @@
-## Hi there 👋
+## <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**JampaJ23/JampaJ23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Meu nome é Moisés Lucas Pereira, ou apenas Lucas.Pr! 
+Atualmente estudando em uma jornada para  <strong>Dev Jr</strong>.<br>
+  Sou um apaixonado por tecnologia. Estudante, em uma nova jornada, buscando fazer o mundo um lugar melhor! (mesmo com meus 0,01% de participação)
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: Python.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: Python, VS Code, Git & GitHub.
+</p>
+
