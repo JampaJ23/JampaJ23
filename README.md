@@ -1,6 +1,4 @@
-##
 
-  ---
 ### Linguagens e Tecnologias
 
 <img 
